@@ -55,9 +55,9 @@
 		1FAC6A4A29D8526200F0AAB9 /* H4X0R News */ = {
 			isa = PBXGroup;
 			children = (
-				1FAC6A5929D8581200F0AAB9 /* Models */,
 				1FAC6A4B29D8526200F0AAB9 /* H4X0R_NewsApp.swift */,
 				1FAC6A4D29D8526200F0AAB9 /* ContentView.swift */,
+				1FAC6A5929D8581200F0AAB9 /* Models */,
 				1FAC6A4F29D8526900F0AAB9 /* Assets.xcassets */,
 				1FAC6A5129D8526900F0AAB9 /* Preview Content */,
 			);
